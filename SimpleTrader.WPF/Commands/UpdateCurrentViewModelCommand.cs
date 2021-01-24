@@ -26,9 +26,8 @@ namespace SimpleTrader.WPF.Commands
 
         public void Execute(object parameter)
         {
-            if (parameter is ViewType)
+            if (parameter is ViewType viewType)
             {
-                ViewType viewType = (ViewType)parameter;
                 switch (viewType)
                 {
                     case ViewType.Home:

@@ -2,8 +2,8 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:local="clr-namespace:SimpleTrader.WPF.Styles">
   <!-- Colors -->
-  <Color x:Key="ColorPrimary1">#6d9648</Color>
-  <Color x:Key="ColorPrimary2">#304220</Color>
+  <Color x:Key="ColorPrimary1">#799540</Color>
+  <Color x:Key="ColorPrimary2">#50632b</Color>
   
   <!-- Brushes -->
   <SolidColorBrush x:Key="BrushPrimary1"
